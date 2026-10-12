@@ -15,5 +15,6 @@ public class day1 {
 					System.err.println(i);
 				}
 		}
+		sc.close();
 	}
 }
